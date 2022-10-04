@@ -1,0 +1,14 @@
+
+/* le style de l'élémént id "entete" */
+#entete {
+background-color: rgb(230, 199, 173);
+color: black;
+padding: 40px;
+text-align: center;
+}
+/* Style de tout les élément de la calsse "ville" */
+.ville {
+background-color: rgb(99, 236, 207);
+color: white;
+padding: 10px;
+}
